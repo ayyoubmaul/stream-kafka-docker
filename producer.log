@@ -1,20 +1,4 @@
-2022-10-22 14:48:56 Produced message on topic user-tracker with value of {"user_id": 80777, "user_name": "Jacob Campbell", "user_address": "450 Howard Union | Blackwellberg | HU", "platform": "Tablet", "signup_at": "2022-10-12 01:25:32"}
+2022-11-04 10:30:48 Produced message on topic user-tracker with value of {"user_id": 61030, "user_name": "William Serrano", "user_address": "03104 Dawson Plains Suite 888 | Robertmouth | GA", "platform": "Mobile", "signup_at": "2022-11-03 18:40:36"}
 
-2022-10-22 14:49:00 Produced message on topic user-tracker with value of {"user_id": 53324, "user_name": "Tina Chambers", "user_address": "765 Michael Circle | Colonchester | ES", "platform": "Mobile", "signup_at": "2022-10-12 12:28:05"}
-
-2022-10-22 14:49:05 Produced message on topic user-tracker with value of {"user_id": 90973, "user_name": "Anna Carter", "user_address": "225 Ewing Mission Apt. 510 | Martintown | DK", "platform": "Laptop", "signup_at": "2022-10-15 05:15:51"}
-
-2022-10-22 14:49:09 Produced message on topic user-tracker with value of {"user_id": 65663, "user_name": "Samuel Dixon", "user_address": "168 Sanchez River | Hutchinsonbury | MT", "platform": "Tablet", "signup_at": "2022-10-03 05:39:15"}
-
-2022-10-22 14:49:13 Produced message on topic user-tracker with value of {"user_id": 25415, "user_name": "Jennifer Garcia", "user_address": "63110 Ann Islands | New Nicoleberg | SK", "platform": "Tablet", "signup_at": "2022-10-10 19:01:17"}
-
-2022-10-22 14:49:17 Produced message on topic user-tracker with value of {"user_id": 64546, "user_name": "Mark Cannon", "user_address": "735 Stewart Trace Suite 342 | East Madisonbury | KR", "platform": "Mobile", "signup_at": "2022-10-07 19:33:40"}
-
-2022-10-22 14:49:21 Produced message on topic user-tracker with value of {"user_id": 23600, "user_name": "Ashley Patton", "user_address": "5909 Howard Meadows Apt. 089 | South Keith | AE", "platform": "Laptop", "signup_at": "2022-10-17 13:16:50"}
-
-2022-10-22 14:49:25 Produced message on topic user-tracker with value of {"user_id": 32723, "user_name": "Robert Willis", "user_address": "19327 Wanda Light | Baxterview | BB", "platform": "Mobile", "signup_at": "2022-10-07 12:54:57"}
-
-2022-10-22 14:49:29 Produced message on topic user-tracker with value of {"user_id": 74740, "user_name": "Tim Dickerson", "user_address": "36318 Turner Spurs | North David | ME", "platform": "Mobile", "signup_at": "2022-10-10 21:34:51"}
-
-2022-10-22 14:49:33 Produced message on topic user-tracker with value of {"user_id": 79984, "user_name": "Jessica Li", "user_address": "1298 Leonard Groves | Alanberg | YE", "platform": "Mobile", "signup_at": "2022-10-14 13:38:52"}
+2022-11-04 10:30:52 Produced message on topic user-tracker with value of {"user_id": 29483, "user_name": "Michael Medina", "user_address": "2575 Reed Camp Suite 080 | North Michaelville | SO", "platform": "Mobile", "signup_at": "2022-11-01 21:56:21"}
 
