@@ -3,4 +3,4 @@
 - Wait until docker setup the image and container
 - Run `python kafka_consumer.py`
 - Run `python kafka_producer.py`
-- Store output to `producer.log` file
+- Store log to `producer.log` file
