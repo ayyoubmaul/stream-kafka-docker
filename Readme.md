@@ -1,5 +1,6 @@
 # How to run
 - Make a Python virtual environment : `python3 -m venv env`
+- Run command `source env/bin/activate`
 - Install libraries from requirements.txt : `python3 -m pip install -r requirements.txt`
 - Make sure you are inside stream-kafka-docker directory and run command `docker-compose up`
 - Wait until docker setup the image and container
@@ -17,3 +18,8 @@ Steps to reproduce :
     `export C_INCLUDE_PATH=/opt/homebrew/Cellar/librdkafka/2.2.0/include`
     `export LIBRARY_PATH=/opt/homebrew/Cellar/librdkafka/2.2.0/lib `
 - Try to run `python3 -m pip install -r requirements.txt` again
+
+For M1 if you encountered this error `fatal error: 'librdkafka/rdkafka.h' file not found`
+you can resolve it with `brew install librdkafka` and install `confluent-kafka==2.0.2`
+
+![alt text](image.png)

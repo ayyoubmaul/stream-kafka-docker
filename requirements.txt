@@ -1,2 +1,2 @@
 faker
-confluent-kafka==1.9.2
+confluent-kafka==2.0.2
